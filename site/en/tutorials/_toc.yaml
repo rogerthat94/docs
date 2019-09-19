@@ -44,6 +44,9 @@ toc:
     path: /tutorials/tensorflow_text/intro
   - title: "TFRecord and tf.Example"
     path: /tutorials/load_data/tfrecord
+  - title: "Other formats with TensorFlow-IO"
+    path: https://github.com/tensorflow/io
+    status: external
 
 - title: "Estimator"
   style: accordion
@@ -105,6 +108,9 @@ toc:
     path: /tutorials/images/transfer_learning
   - title: "Image segmentation"
     path: /tutorials/images/segmentation
+  - title: "Object detection with TFHub"
+    path: https://github.com/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb
+    status: external
 
 - title: "Text"
   style: accordion
